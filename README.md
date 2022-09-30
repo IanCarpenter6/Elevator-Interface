@@ -8,6 +8,7 @@ Issues with current Implementation:
 
 Good Factors not to be changed:
 - Emergency call and other tool buttons are seprated from the group of floor buttons
+- Room under symbols for brailles
 
 Commmon uses:
 - Avoid stairs
