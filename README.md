@@ -20,5 +20,6 @@ Common Sequence of Action:
 - Look at screen to insure you chose the right floor
 - Exit elevator at designated floor
 
-Gif
+Gif:
+
 ![p1_Ian_Carpenter_gif](https://github.com/IanCarpenter6/p1.ian.carpenter/blob/main/p1_Ian_Carpenter_gif.gif?raw=true)
